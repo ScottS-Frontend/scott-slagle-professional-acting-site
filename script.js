@@ -140,7 +140,7 @@ document.addEventListener('DOMContentLoaded', () => {
     company: 'Alan Massa Productions',
     year: 2013,
     role: 'Supporting Actor',
-    video: 'https://drive.google.com/file/d/1ZHEnFx7NeobfBd4xowVPdKjmQuAlXZ6G/view?usp=drive_link'
+    video: 'https://drive.google.com/file/d/1ZHEnFx7NeobfBd4xowVPdKjmQuAlXZ6G/preview'
   }
 ];
 
