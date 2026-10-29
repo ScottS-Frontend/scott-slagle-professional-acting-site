@@ -139,7 +139,7 @@ document.addEventListener('DOMContentLoaded', () => {
     show: 'The Smiths — Episode 7',
     company: 'Alan Massa Productions',
     year: 2013,
-    role: 'Supporting Actor'
+    role: 'Supporting Actor',
     video: 'https://drive.google.com/file/d/1ZHEnFx7NeobfBd4xowVPdKjmQuAlXZ6G/view?usp=drive_link'
   }
 ];
