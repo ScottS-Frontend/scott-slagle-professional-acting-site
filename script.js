@@ -323,7 +323,6 @@ document.addEventListener('keydown', (e) => {
   function showRelative(delta) {
     currentIndex = (currentIndex + delta + galleryImages.length) % galleryImages.length;
     lightboxImg.src = galleryImages[currentIndex];
-    lightboxImg.alt = `Scott Slagle in performance, photo ${currentIndex + 1}`;
   }
 
   galleryGrid.addEventListener('click', (e) => {
